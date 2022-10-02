@@ -6,6 +6,5 @@ So, using the power of [The Way Back Machine](https://archive.org/web/), I have 
 
 Unfortunately, because of robots.txt rules, not all of the sites have been stored on the Way Back Machine but this restores much of the content so we can keep a piece of internet history alive.
 
-To see what else I get up to you can visit [my personal blog](https://www.binarymoon.co.uk).
-
-You can view the recreated page [here on Github pages](https://binarymoon.github.io/MillionDollarHomepage/).
+* View [the restored Million Dollar Homepage](https://binarymoon.github.io/MillionDollarHomepage/).
+* Read my blog post about [how I remade the Million Dollar Homepage](https://www.binarymoon.co.uk/2017/07/rescuing-the-milliondollarhomepage/).
